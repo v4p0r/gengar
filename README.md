@@ -44,4 +44,4 @@ Antes de seguir o processo abaixo edite o .env
 
 
 # Considerações & Alerta
-Baseado no [projeto](https://github.com/reinaldomoreira/alura-video-scrapper) do [reinaldomoreira](https://github.com/reinaldomoreira), foi apenas para testar meus conhecimento na área, os desenvolvedores não assumem nenhuma responsabilidade e não são responsáveis ​​por qualquer uso indevido
+Baseado no [projeto](https://github.com/reinaldomoreira/alura-video-scrapper) do [reinaldomoreira](https://github.com/reinaldomoreira), foi apenas para testar meus conhecimentos na área, os desenvolvedores não assumem nenhuma responsabilidade e não são responsáveis ​​por qualquer uso indevido
